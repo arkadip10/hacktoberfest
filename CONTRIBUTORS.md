@@ -16672,3 +16672,8 @@ to explore life. Also, Python and Django Developer
  - Place: West Bengal, India
  - Bio: Learning Web Dev & Design
  - GitHub: [lenkachinmoy](https://github.com/lenkachinmoy)
+
+#### Name: [Arkadip Ghosh](https://github.com/arkadip10)
+ - Place: West Bengal, India
+ - Bio: Jgec CSE student
+ - GitHub: [arkadip10](https://github.com/arkadip10)
